@@ -1,4 +1,4 @@
-# React + Electron + file2html
+# electron-react-combined
 
 **An example of using create-react-app, electron, and file2html**.  
 Original boilerplate made by [Kitze](https://twitter.com/thekitze) who works @ Medium. Read his ([article](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)). 
@@ -88,7 +88,7 @@ Looking to implement the following in the future!
 
 1.) Clone this repository and cd into the directory, or "Open in GitHub Desktop"
 ```node
-	git clone https://github.com/Braden-Preston/electron-react-file2html
+	git clone https://github.com/Braden-Preston/electron-react-combined
 	
 	cd electron-react-file2html
 ```
